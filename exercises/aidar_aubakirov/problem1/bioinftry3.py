@@ -1,3 +1,8 @@
+# Written by Aidar Aubakirov
+
+# 07.12.2022 01:04 pm 
+# I am satisfied with this solution
+# Askhat
 
 import random
 
